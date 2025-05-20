@@ -2,7 +2,6 @@
 
 Este proyecto implementa un juego de combate de vehículos multijugador utilizando Fusion Network en Unity, donde los jugadores pueden disparar proyectiles para dañar a los vehículos enemigos.
 
-![Demo del Juego](demo_image.png)
 
 ## Características
 
@@ -369,8 +368,8 @@ Estas etiquetas facilitan filtrar los logs cuando se depura en entornos multijug
 
 ## Requisitos
 
-- Unity 2021.3 o superior
-- Fusion Network 1.1.0 o superior
+- Unity 2021.3 o superior (Recomendado Unity 6)
+- Photon - Fusion 2
 - Paquete de Input System
 
 ## Instalación
@@ -395,3 +394,4 @@ Si tienes preguntas o comentarios, por favor abre un issue en este repositorio.
 ---
 
 Desarrollado con ❤️ usando Fusion Network y Unity.
+Ragross Studios
